@@ -1,14 +1,12 @@
-# Mate Finance
+# Meta Finance
 
-Mata Finance Metrics is a financial advisor app built to demonstrate the [Microservice Architecture Pattern](http://martinfowler.com/microservices/) using Spring Boot, Spring Cloud and Docker.
+Meta Finance Metrics is a financial advisor app built to demonstrate the [Microservice Architecture Pattern](http://martinfowler.com/microservices/) using Spring Boot, Spring Cloud and Docker.
 
 <br>
 
 ![](https://cloud.githubusercontent.com/assets/6069066/13864234/442d6faa-ecb9-11e5-9929-34a9539acde0.png)
-![Piggy Metrics](https://cloud.githubusercontent.com/assets/6069066/13830155/572e7552-ebe4-11e5-918f-637a49dff9a2.gif)
-
+![meta finance](.assets/giphy.gif)
 ## Functional services
-
 The Project is decomposed into three core microservices. All of them are independently deployable applications organized around certain business domains.
 
 <img width="880" alt="Functional services" src="https://cloud.githubusercontent.com/assets/6069066/13900465/730f2922-ee20-11e5-8df0-e7b51c668847.png">
