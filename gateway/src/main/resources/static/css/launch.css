@@ -135,7 +135,7 @@ only screen and (min-resolution: 144dpi) {
 }
 #piggy {
 	display: block;
-	background: url("../images/piggy_large.gif") no-repeat;
+	background: url("../images/money.png") no-repeat;
 	background-size: 178px 178px;
 	width: 178px;
 	height: 178px;
@@ -267,7 +267,7 @@ only screen and (min-resolution: 144dpi) {
 /* END OF FLIP BUTTON */
 
 #logotext {
-	background: url("../images/logotext_large.gif") no-repeat;
+	background: url("../images/logotext.png") no-repeat;
 	background-size: 172px 65px;
 	width: 172px;
 	height: 65px;
@@ -666,10 +666,10 @@ a#iconsfooter {
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5),
 only screen and (min-resolution: 144dpi) {
 	#piggy {
-		background-image: url("../images/piggy_large@2x.gif");
+		background-image: url("../images/money.png");
 	}
 	#logotext {
-		background-image: url("../images/logotext_large@2x.gif");
+		background-image: url("../images/logotext.png");
 	}
 }
 

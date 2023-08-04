@@ -203,7 +203,7 @@ only screen and (min-resolution: 144dpi) {
 	-ms-transition: 0.3s ease-out;
 	-webkit-transition: 0.3s ease-out;
 	transition: 0.3s ease-out;
-	background: url("../images/logo_large.gif") no-repeat;
+	background: url("../images/money.png") no-repeat;
 	background-size: 137px 204px;
 	background-position: center;
 	width: 172px;
@@ -235,7 +235,7 @@ only screen and (min-resolution: 144dpi) {
 	-ms-transform: rotateY(180deg);
 	-o-transform: rotateY(180deg);
 	transform: rotateY(180deg);
-	background: url("../images/logotext_large.gif") no-repeat;
+	background: url("../images/money.png") no-repeat;
 	background-size: 172px 65px;
 	width: 172px;
 	height: 65px;
@@ -2673,7 +2673,7 @@ input#deposit:checked + label.button:after, input#capitalization:checked + label
 }
 @media screen and (max-height: 850px) {
 	#logo_greeting, #logo_settings {
-		background: url("../images/logo_large.gif") no-repeat;
+		background: url("../images/money.png") no-repeat;
 		background-position: top center;
 		background-size: 137px 204px;
 		z-index: 1000;
@@ -2709,7 +2709,7 @@ input#deposit:checked + label.button:after, input#capitalization:checked + label
 		height: 56%
 	}
 	#logo_greeting, #logo_settings {
-		background: url("../images/logo.gif") no-repeat;
+		background: url("../images/money.png") no-repeat;
 		background-size: 114px 145px;
 		width: 114px;
 		height: 145px;
@@ -2731,13 +2731,13 @@ input#deposit:checked + label.button:after, input#capitalization:checked + label
 		bottom: 20px;
 	}
 	#piggy {
-		background: url("../images/piggy.gif") no-repeat;
+		background: url("../images/money.png") no-repeat;
 		background-size: 149px 149px;
 		width: 149px;
 		height: 149px;
 	}
 	#logotext {
-		background: url("../images/logotext.gif") no-repeat;
+		background: url("../images/logotext.png") no-repeat;
 		size: 163px 67px;
 		width: 163px;
 		height: 67px;
@@ -2818,10 +2818,10 @@ input#deposit:checked + label.button:after, input#capitalization:checked + label
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5),
 only screen and (min-resolution: 144dpi) {
 	#logo_greeting, #logo_settings {
-		background-image: url("../images/logo_large@2x.gif");
+		background-image: url("../images/money.png");
 	}
 	#logo_statistic {
-		background: url("../images/logotext_large@2x.gif");
+		background: url("../images/logotext.png");
 		background-size: 172px 65px;
 	}
 	.imgbox:hover {
